@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Youspot</string>
+	
+	<string name="mnu_reload">Scanner</string>
+	<string name="mnu_about">A propos ...</string>
+	<string name="mnu_quit">Quitter</string>
+	<string name="mnu_settings">Paramètres</string>
+	<string name="main_offline">déconnecté</string>
+	<string name="main_upgrade_upgrade">Installer</string>
+	<string name="main_connect_key">Clef:</string>
+	<string name="main_connect_essid">Réseau:</string>
+	<string name="main_connect_connect">Connecter</string>
+	<string name="main_connect_disconnect">Déconnecter</string>
+	<string name="main_connect_connecting">Connexion ...</string>
+	<string name="main_connect_disconnecting">Déconnexion ...</string>
+	<string name="main_connect_nokey">Aucune (réseau ouvert)</string>
+	<string name="main_connect_associating">Association ...</string>
+	<string name="main_connect_connected">Connecté</string>
+	<string name="main_connect_connection_failed">Connexion échouée</string>
+	<string name="main_connect_disconnected">Déconnecté</string>
+	<string name="main_connect_authenticating">Authentification ...</string>
+	<string name="main_connect_ip_solving">Obtention d\'adresse IP ...</string>
+	<string name="main_connect_aborting">Annulation ...</string>
+	
+	<string name="gen_cancel">Annuler</string>
+	<string name="gen_ok">Ok</string>
+	
+	<string name="splash_loading">Connexion ...</string>
+	<string name="splash_login_error">Cette application requiert une connexion de données.</string>
+
+	<string name="notif_scanning_ticker">YouSpot</string>
+	<string name="notif_scanning_title">Scan des réseaux wifi ...</string>
+	<string name="notif_scanning_desc">YouSpot scanne les réseaux wifi disponibles</string>
+	<string name="notif_connect_title">Connecté</string>
+	<string name="notif_connect_desc">YouSpot est connecté à un réseau sans fil.</string>
+
+	<string name="settings_save">Enregistrer</string>
+	<string name="settings_title">Paramètres</string>	
+	<string name="settings_own_networks">Ne pas communiquer les réseaux sans-fils sauvegardés</string>
+	<string name="settings_offline_mode">Mode déconnecté</string>
+	<string name="settings_own_networks_desc">Cette option empêche Youspot de reporter vos points d\'accès sans-fil configurés. Attention, si vous activez cette option ne serait-ce qu\'une fois, ceux-ci seront reportés dans notre base de données en ligne (mais pas les clefs de chiffrement) ! </string>
+	<string name="settings_offline_mode_desc">Le mode déconnecté vous permet de wardriver sans connexion de données. Les réseaux sans-fils détectés sont sauvegardés dans une base de données temporaire, puis retransmis plus tard lorsque ce mode est désactivé.</string>
+	<string name="settings_vibrate">Vibre lorsqu\'un spot ouvert est trouvé</string>
+	
+	<string name="scanner_status"> réseau(x) détecté(s)</string>
+	<string name="scanner_status_offline"> réseau(x) enregistré(s)</string>
+	<string name="scanner_status_default">Aucun réseau détecté</string>
+	
+	<string name="about_author">Auteur: virtualabs</string>
+	<string name="about_version">Version: 1.10</string>
+	<string name="about_website">Site: http://www.youspot.org</string>
+	
+	<string name="synchro_title">Synchronisation</string>
+	<string name="synchro_syncing">Synchronisation en cours ...</string>
+	<string name="synchro_error">Erreur lors de la synchronisation !</string>
+	<string name="synchro_connecting">Connexion ...</string>
+	<string name="synchro_sent">Spots wifi envoyés:</string>
+	<string name="synchro_summup_desc">La synchronisation a été réalisée avec succès.\n\nTous les points d\'accès référencés ont été transmis à notre base de données en ligne.</string>
+
+	<string name="stats_title">Statistiques</string>
+	<string name="stats_registered">Vous avez reporté</string>
+	<string name="stats_total">sur un total de</string>
+
+
+</resources>

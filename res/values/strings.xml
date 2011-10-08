@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Youspot</string>
+	
+	<string name="mnu_reload">Refresh</string>
+	<string name="mnu_about">About</string>
+	<string name="mnu_quit">Quit</string>
+	<string name="mnu_settings">Settings</string>
+	<string name="main_offline">offline</string>
+	<string name="main_upgrade_upgrade">Upgrade</string>
+	<string name="main_connect_key">Key:</string>
+	<string name="main_connect_essid">Network:</string>
+	<string name="main_connect_connect">Connect</string>
+	<string name="main_connect_disconnect">Disconnect</string>
+	<string name="main_connect_associating">Connecting ...</string>
+	<string name="main_connect_disconnecting">Disconnecting ...</string>
+	<string name="main_connect_nokey">None (open network)</string>
+	<string name="main_connect_connecting">Associating ...</string>
+	<string name="main_connect_connected">Connected</string>
+	<string name="main_connect_connection_failed">Cannot associate</string>
+	<string name="main_connect_disconnected">Disconnected</string>
+	<string name="main_connect_authenticating">Authenticating ...</string>
+	<string name="main_connect_ip_solving">Obtaining IP address ...</string>
+	<string name="main_connect_aborting">Aborting ...</string>
+	
+	<string name="notif_scanning_ticker">YouSpot</string>
+	<string name="notif_scanning_title">Scanning wireless networks ...</string>
+	<string name="notif_scanning_desc">YouSpot is currently scanning every available wireless networks.</string>
+	<string name="notif_connect_title">Connected</string>
+	<string name="notif_connect_desc">YouSpot is currently connected to a wireless network.</string>
+	
+	<string name="settings_own_networks">Do not report your saved wireless networks</string>
+	<string name="settings_offline_mode">Offline mode</string>
+	<string name="settings_own_networks_desc">Enabling this option protects your saved wireless networks from being stored in our database. Be careful, if you disable this option just once, all of your saved networks would be reported online (but not your saved keys) ! </string>
+	<string name="settings_offline_mode_desc">Enabling offline mode allows you to wardrive with no data connection. Every wireless access point detected is stored in a temporary database and synced later. </string>
+	<string name="settings_vibrate">Vibrate when an open spot is found</string>
+	<string name="settings_save">Save</string>
+	<string name="settings_title">Settings</string>
+	
+	<string name="scanner_status"> detected wifi network(s)</string>
+	<string name="scanner_status_default">No detected wifi networks</string>
+	<string name="scanner_status_offline"> saved network(s)</string>
+	
+	<string name="synchro_title">Sync.</string>
+	<string name="synchro_syncing">Synchronizing ...</string>
+	<string name="synchro_error">Error while synchronizing !</string>
+	<string name="synchro_connecting">Connecting ...</string>
+	<string name="synchro_sent">WiFi spots sent:</string>
+	<string name="synchro_summup_desc">Synchronization successful.\n\nAll detected wireless spots have been sent to our remote online database.</string>
+	
+	
+	<string name="stats_title">Statistics</string>
+	<string name="stats_registered">You have registered</string>
+	<string name="stats_total">Database contains</string>
+		
+	<string name="about_author">Author: virtualabs</string>
+	<string name="about_version">Version: 1.10</string>
+	<string name="about_website">Website: http://www.youspot.org</string>
+
+		
+	<string name="gen_cancel">Cancel</string>
+	<string name="gen_ok">Ok</string>
+	
+	<string name="splash_loading">Logging in ...</string>
+	<string name="splash_login_error">This software requires a working data connection in order to work properly.</string>
+</resources>
